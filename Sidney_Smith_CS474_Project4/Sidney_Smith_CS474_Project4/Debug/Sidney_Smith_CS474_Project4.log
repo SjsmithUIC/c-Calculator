@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\hailtotheblue\source\repos\sidney_smith_cs474_project4\sidney_smith_cs474_project4\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\hailtotheblue\source\repos\sidney_smith_cs474_project4\sidney_smith_cs474_project4\main.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\hailtotheblue\source\repos\sidney_smith_cs474_project4\sidney_smith_cs474_project4\main.cpp(225): warning C4018: '<': signed/unsigned mismatch
+  Sidney_Smith_CS474_Project4.vcxproj -> C:\Users\HailToTheBlue\source\repos\Sidney_Smith_CS474_Project4\Debug\Sidney_Smith_CS474_Project4.exe
